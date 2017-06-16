@@ -3,6 +3,8 @@
  1. 简单的了解Linux 
  
   Linux操作系统是基于UNIX操作系统发展而来的一种克隆系统，它诞生于1991 年的 [Linux桌面] 10 月5 日（这是第一次正式向外公布的时间）。以后借助于Internet网络，并通过全世界各地计算机爱好者的共同努力，已成为今天世界上使用最多的一种UNIX 类操作系统，并且使用人数还在迅猛增长。 
+  
+ ![Image of Yaktocat](https://nts.newbieol.com/static/k6/mySQL/class-002/img/linux_fs.jpg)
  
  2. 安装了虚拟机
  3. 在虚拟机上安装了Linux操作系统
