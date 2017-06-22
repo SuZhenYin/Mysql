@@ -1,4 +1,5 @@
 ## 技术文档
+* [Linux](./linux.md)
 * [安装ubuntu](./ubuntu.md)
 * [gti的使用](./git.md)
 * [安装Mysql](./mysql.md)
