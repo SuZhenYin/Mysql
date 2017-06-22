@@ -3,7 +3,7 @@
 * [gti的使用](./git.md)
 * [安装Mysql](./mysql.md)
 * [常见的Mysql指令](./mysql_01.md)
-* [安装atom](./mysql_01.md)
+* [安装atom](./atom.md)
 
 ## 课程设计
 * [概述](./概述.md)
